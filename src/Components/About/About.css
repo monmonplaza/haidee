@@ -1,0 +1,28 @@
+.about {
+    padding: 7rem 0;
+   
+}
+
+.about__wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 86rem;
+    margin: 0 auto;
+}
+
+.about__header,
+.about__content{
+    flex: 0 0 60%;
+    padding: 2rem;
+}
+.about__header {
+    flex: 0 40%;
+    border-right: 3px solid var(--dark);
+    text-align: right;
+}
+
+.about__header h2{
+    line-height: 1;
+    margin-bottom: 1rem;
+}

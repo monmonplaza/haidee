@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/haidee/static/css/main.76e08b86.chunk.css",
+    "main.js": "/haidee/static/js/main.29092088.chunk.js",
+    "main.js.map": "/haidee/static/js/main.29092088.chunk.js.map",
+    "runtime-main.js": "/haidee/static/js/runtime-main.fcceb4af.js",
+    "runtime-main.js.map": "/haidee/static/js/runtime-main.fcceb4af.js.map",
+    "static/js/2.897169da.chunk.js": "/haidee/static/js/2.897169da.chunk.js",
+    "static/js/2.897169da.chunk.js.map": "/haidee/static/js/2.897169da.chunk.js.map",
+    "index.html": "/haidee/index.html",
+    "precache-manifest.9816eff5897162636acc932d499fe68f.js": "/haidee/precache-manifest.9816eff5897162636acc932d499fe68f.js",
+    "service-worker.js": "/haidee/service-worker.js",
+    "static/css/main.76e08b86.chunk.css.map": "/haidee/static/css/main.76e08b86.chunk.css.map",
+    "static/js/2.897169da.chunk.js.LICENSE.txt": "/haidee/static/js/2.897169da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcceb4af.js",
+    "static/js/2.897169da.chunk.js",
+    "static/css/main.76e08b86.chunk.css",
+    "static/js/main.29092088.chunk.js"
+  ]
+}

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a863815ee632382ac06a8a7a9c1eba61",
+    "revision": "bf341e92e9663dcdce6d8374ed7a5479",
     "url": "/haidee/index.html"
   },
   {
-    "revision": "8b94d75ac7eb88132a89",
+    "revision": "d7bb627e95fd46d97681",
     "url": "/haidee/static/css/main.76e08b86.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/haidee/static/js/2.897169da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b94d75ac7eb88132a89",
-    "url": "/haidee/static/js/main.29092088.chunk.js"
+    "revision": "d7bb627e95fd46d97681",
+    "url": "/haidee/static/js/main.f6a30ee3.chunk.js"
   },
   {
     "revision": "3e661b0c8d3f4fae5c8a",
